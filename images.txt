@@ -14,3 +14,5 @@ redis:8.2.4-bookworm
 maven:3.9.12-eclipse-temurin-21-noble
 #---Nacos---
 nacos/nacos-server:v2.2.1-slim
+#---XXL-JOB---
+xuxueli/xxl-job-admin:2.4.0
