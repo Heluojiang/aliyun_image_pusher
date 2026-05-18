@@ -2,6 +2,7 @@
 mongo:8.2.5-noble
 #---RabbitMQ---
 rabbitmq:4.2.4-management
+rabbitmq:4.3.0-management
 #---Kafka---
 apache/kafka:4.1.1
 #---PostgreSQL---
